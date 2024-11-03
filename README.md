@@ -1,5 +1,9 @@
 # Energy Insights 360
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ffce1014-804e-4047-8e98-caea29638b33" alt="Description of image" width="400" height="400">
+</div>
+
 - **Author(s):** Taissir Boukrouba
 - **Affiliation:** Personal Project  
 - **Date:** 11/2024
@@ -13,7 +17,8 @@
 
 ## Dashboard Features 
 
-## Data Processing 
+
+## Methodology
 
 
 ## Dashboard KPIs 
