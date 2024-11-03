@@ -46,6 +46,22 @@ During the dashboarding phase, the unified CSV served as the foundational datase
 
 ## Dashboard KPIs 
 
+| KPI                       | Definition                                                                                                 |
+|---------------------------|------------------------------------------------------------------------------------------------------------|
+| **Load Factor**           | A measure of the efficiency of energy generation, calculated as the ratio of actual output to potential output over a specific period. |
+| **Average Annual BOT**    | Refers to the average annual Bill of Trade, which represents the average value of imports and exports in energy resources over a year. |
+| **Coal Discrepancy**      | The difference between reported coal production or consumption and the actual measured amounts, highlighting inconsistencies in coal data reporting. |
+| **Intensity of Trade**    | A metric that assesses the volume of trade relative to economic output, often measured in terms of energy trade volume per unit of GDP. |
+| **Energy Contribution**    | The percentage contribution of various energy sources (e.g., coal, natural gas, renewables) to the total energy supply of a specific region or country. |
+
+
 
 ## Data Narrative 
 
+Beyond providing EU-specific statistics, this project distinguishes itself with a unique data narrative that extends from global to regional insights. Recognizing that energy dynamics are interconnected across different levels, Energy Insights 360 introduces a structured narrative that progresses through three levels of analysis:
+
+- **Global Layer:** Sets the stage by examining worldwide energy consumption patterns, illustrating how the EU’s energy profile fits within broader global trends.
+- **Organizational Layer:** Focuses on crude oil usage within EU-based organizations, showcasing organizational roles in production and distribution. This level emphasizes how companies contribute to and are impacted by EU energy policies and global shifts in oil production.
+- **Regional Layer:** Narrows down to specific EU regions, providing detailed insights into coal, lignite, and natural gas consumption. This localized view helps stakeholders understand how regional fuel dynamics differ and how they contribute to the EU's overall energy landscape.
+  
+Each layer in the narrative provides contextual explanations and highlighted insights, guiding users through the flow from global trends to regional details. This structure ensures that stakeholders can move seamlessly from understanding the broader energy context to drilling down into specific, actionable regional data.
