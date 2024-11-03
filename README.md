@@ -63,7 +63,9 @@ Each widget and chart is crafted to provide a targeted view of specific KPIs, al
 | **Average Annual BOT**    | Refers to the average annual Bill of Trade, which represents the average value of imports and exports in energy resources over a year. |
 | **Coal Discrepancy**      | The difference between reported coal production or consumption and the actual measured amounts, highlighting inconsistencies in coal data reporting. |
 | **Intensity of Trade**    | A metric that assesses the volume of trade relative to economic output, often measured in terms of energy trade volume per unit of GDP. |
-| **Energy Contribution**    | The percentage contribution of various energy sources (e.g., coal, natural gas, renewables) to the total energy supply of a specific region or country. |
+| **Energy Contribution**   | The percentage contribution of various energy sources (e.g., coal, natural gas, renewables) to the total energy supply of a specific region or country. |
+| **Balance of Trade**      | The net difference between the value of energy exports and imports, indicating whether a region is a net importer or exporter of energy resources. |
+
 
 
 
