@@ -33,6 +33,16 @@ After cleaning, the processed data from each sheet was combined into a single CS
 
 ![eneregy 360](https://github.com/user-attachments/assets/9bf542e9-da2a-4ce7-9620-082939d9c10c)
 
+### Dashboarding : 
+
+During the dashboarding phase, the unified CSV served as the foundational dataset for creating a comprehensive visualization platform that transformed raw data into meaningful insights. Key performance indicators (KPIs) reflecting critical trends in fuel statistics were derived through various calculations, including total fuel consumption, emissions estimates, and regional comparisons. The dashboard was designed for optimal representation of these KPIs, facilitating quick comprehension of complex data relationships. To enhance user engagement, a set of interactive widgets—such as charts and graphs—was developed, allowing users to filter and drill down into specific areas of interest, including time trends and sector-specific usage patterns.The result was a dynamic dashboard that effectively visualized data and provided actionable insights into EU fuel dynamics. Users could explore the data interactively, leveraging the custom functions and computations that enriched the widgets for deeper insights into the energy landscape.
+
+<br>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/36a7d15b-a3d4-40a5-8674-d75dc24f54fc" height=80 width=500 >
+</div>
+
 
 ## Dashboard KPIs 
 
