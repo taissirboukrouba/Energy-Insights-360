@@ -23,6 +23,8 @@
 
 ## Methodology
 ### Data Preprocessinng : 
+> [!IMPORTANT]  
+> You can check the data files inside the [data directory](/data/)
 
 The data preprocessing phase was essential for transforming the original dataset, which consisted of multi-sheet Excel files containing related but distinct fuel statistics. To streamline the analysis process, each sheet was separated, allowing for individual examination and cleaning. This included identifying inconsistencies, removing duplicates, and addressing any missing values to ensure data quality and integrity.
 After cleaning, the processed data from each sheet was combined into a single CSV file, with each sheet represented as a separate feature. This conversion not only simplified data handling but also enhanced compatibility with various data analysis tools. By the end of this phase, the dataset was ready for further analysis, enabling the project to effectively derive insights into fuel statistics across the EU and beyond.
@@ -31,6 +33,8 @@ After cleaning, the processed data from each sheet was combined into a single CS
 ![eneregy 360](https://github.com/user-attachments/assets/9bf542e9-da2a-4ce7-9620-082939d9c10c)
 
 ### Dashboarding : 
+> [!IMPORTANT]  
+> You can check the plots whithout the platform inside the [plots directory](/plots/)
 
 During the dashboarding phase, the unified CSV served as the foundational dataset for creating a comprehensive visualization platform that transformed raw data into meaningful insights. Key performance indicators (KPIs) reflecting critical trends in fuel statistics were derived through various calculations, including total fuel consumption, emissions estimates, and regional comparisons. The dashboard was designed for optimal representation of these KPIs, facilitating quick comprehension of complex data relationships. To enhance user engagement, a set of interactive widgets—such as charts and graphs—was developed, allowing users to filter and drill down into specific areas of interest, including time trends and sector-specific usage patterns.The result was a dynamic dashboard that effectively visualized data and provided actionable insights into EU fuel dynamics. Users could explore the data interactively, leveraging the custom functions and computations that enriched the widgets for deeper insights into the energy landscape. The following diagram summarises its structure : 
 
