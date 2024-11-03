@@ -1,8 +1,10 @@
 # Energy Insights 360
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/42cad37c-c475-4871-8ec3-893bd1031379" alt="Description of image" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/19cb02cf-898d-4bea-9494-e9bab98fe3d1" alt="Description of image" >
 </div>
+
+
 
 - **Author(s):** Taissir Boukrouba
 - **Affiliation:** Personal Project  
