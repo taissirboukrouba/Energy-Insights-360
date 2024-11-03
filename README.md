@@ -21,7 +21,6 @@
 ## Document Control
 
 
-## Dashboard Features 
 
 
 ## Methodology
@@ -40,11 +39,21 @@ During the dashboarding phase, the unified CSV served as the foundational datase
 <br>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/36a7d15b-a3d4-40a5-8674-d75dc24f54fc" height=80 width=500 >
+<img src="https://github.com/user-attachments/assets/36a7d15b-a3d4-40a5-8674-d75dc24f54fc"  width=300 >
 </div>
 
 
-## Dashboard KPIs 
+
+
+## Dashboard Features 
+The Energy Insights 360 dashboard is designed to showcase fuel statistics specific to the EU through a range of interactive and visually appealing widgets, making complex data easy to understand and actionable for users:
+
+- **Gauge Plots and KPI Cards :** These tools highlight key performance indicators (KPIs) such as load factor, energy intensity, and annual trade metrics, providing users with a quick overview of essential metrics at a glance.
+- **Pie Charts for Fuel Contribution:** Pie charts illustrate the contributions of different energy sources—such as coal, natural gas, and renewables—allowing users to visualize the share of each fuel type in the EU's overall energy mix.
+- **Line Plots Trends & Comparisons**: Time series and bar charts display trends in fuel usage and emissions over time, along with comparative data across various regions and sectors within the EU.
+
+Each widget and chart is crafted to provide a targeted view of specific KPIs, allowing users to engage with the data and explore details for a more comprehensive understanding of EU fuel dynamics. Collectively, these visualizations facilitate data-driven insights into energy efficiency, trade intensity, and sustainability within the EU framework.
+### Dashboard KPIs 
 
 | KPI                       | Definition                                                                                                 |
 |---------------------------|------------------------------------------------------------------------------------------------------------|
