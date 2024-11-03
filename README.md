@@ -1,7 +1,7 @@
 # Energy Insights 360
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/19cb02cf-898d-4bea-9494-e9bab98fe3d1" alt="Description of image" >
+<img src="https://github.com/user-attachments/assets/a4f95da9-1dce-4a82-8a2c-87291d9c9ffb" width=500 >
 </div>
 
 
