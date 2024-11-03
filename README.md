@@ -25,6 +25,13 @@
 
 
 ## Methodology
+### Data Preprocessinng : 
+
+The data preprocessing phase was essential for transforming the original dataset, which consisted of multi-sheet Excel files containing related but distinct fuel statistics. To streamline the analysis process, each sheet was separated, allowing for individual examination and cleaning. This included identifying inconsistencies, removing duplicates, and addressing any missing values to ensure data quality and integrity.
+After cleaning, the processed data from each sheet was combined into a single CSV file, with each sheet represented as a separate feature. This conversion not only simplified data handling but also enhanced compatibility with various data analysis tools. By the end of this phase, the dataset was ready for further analysis, enabling the project to effectively derive insights into fuel statistics across the EU and beyond.
+
+
+![eneregy 360](https://github.com/user-attachments/assets/9bf542e9-da2a-4ce7-9620-082939d9c10c)
 
 
 ## Dashboard KPIs 
