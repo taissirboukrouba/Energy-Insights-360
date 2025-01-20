@@ -21,7 +21,7 @@ st.title("EU Fuel Statistics Dashboard")
 
 
 #reading data 
-df = pd.read_csv("Energy.csv")
+df = pd.read_csv("data/Energy.csv")
 df.replace(".","",inplace=True)
 
 
