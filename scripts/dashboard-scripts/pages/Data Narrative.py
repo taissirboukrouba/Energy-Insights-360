@@ -6,7 +6,7 @@ st.title("Fuel & Energy Overview: Global to Regional Perspectives")
 profile_picture = "logo.png"  
 st.logo(profile_picture,size="large")
 
-df = pd.read_csv("Energy.csv")
+df = pd.read_csv("data/Energy.csv")
 df.replace(".","",inplace=True)
 
 with st.expander("Data Preview"):
