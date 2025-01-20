@@ -1,0 +1,5 @@
+streamlit>=1.26.0
+pandas>=1.5.0
+plotly>=5.16.1
+squarify>=0.4.3
+matplotlib>=3.8.0
